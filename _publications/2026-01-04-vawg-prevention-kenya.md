@@ -4,9 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/vawg-prevention-kenya
 excerpt: 'We evaluate the Empowerment Transformation Training (ETT) program, a school-based intervention implemented by Ujamaa Africa, using a large-scale randomized controlled trial in Kenya.'
-date: 2026-01-04
+date: 2026-01-02
 venue: 'Work in Progress'
-citation: 'Aisha Salih, Ahmed Mushfiq Mobarak, Sreyashi Sharmin, and Junxing Gu (Yale University). <i>Work in Progress.</i>'
 ---
 
 *With Ahmed Mushfiq Mobarak, Sreyashi Sharmin, and Junxing Gu (Yale University)*

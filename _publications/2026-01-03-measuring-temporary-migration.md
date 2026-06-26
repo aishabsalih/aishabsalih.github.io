@@ -4,9 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/measuring-temporary-migration
 excerpt: 'Temporary and seasonal migration is an important adjustment margin for rural households in developing economies, yet empirical estimates vary widely across surveys. This paper treats survey design as a primary source of that variation.'
-date: 2026-01-03
+date: 2026-01-01
 venue: 'Work in Progress'
-citation: 'Aisha Salih and Timothée Demont (Aix-Marseille School of Economics). <i>Work in Progress.</i>'
 ---
 
 *With Timothée Demont (Aix-Marseille School of Economics, Aix-Marseille University, CNRS)*

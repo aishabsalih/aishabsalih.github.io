@@ -1,12 +1,11 @@
 ---
-title: "Harvesting Hope: Weather Shocks and Religious Expenditure in Sub-Saharan Africa
+title: "Harvesting Hope: Weather Shocks and Religious Expenditure in Sub-Saharan Africa"
 collection: publications
 category: manuscripts
 permalink: /publication/harvesting-hope-climate-religion
 excerpt: 'How do climate conditions shape religiosity and religious participation? We examine how climate shocks affect religious contributions in Nigeria using household panel data from the Nigeria General Household Survey (2010--2019) combined with the Standardised Precipitation--Evapotranspiration Index (SPEI).'
-date: 2026-01-02
+date: 2026-01-03
 venue: 'Work in Progress'
-citation: 'Aisha Salih and Eva Raiber (Aix-Marseille School of Economics). <i>Work in Progress.</i>'
 ---
 
 *With Eva Raiber (Aix-Marseille School of Economics, Aix-Marseille University, CNRS)*

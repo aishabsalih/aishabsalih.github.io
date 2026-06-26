@@ -1,0 +1,40 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="list__item publication-dropdown">
+  <details class="publication-dropdown__details">
+    <summary class="publication-dropdown__summary">
+      <span class="archive__item-title publication-dropdown__title">{{ title }}</span>
+      {% if post.venue == 'Job Market Paper' %}
+        <span class="publication-dropdown__label"><strong>Job Market Paper</strong></span>
+      {% elsif post.venue %}
+        <span class="publication-dropdown__label"><em>{{ post.venue }}</em></span>
+      {% endif %}
+    </summary>
+
+    <div class="publication-dropdown__content">
+      {{ post.content | markdownify }}
+
+      {% if post.paperurl and post.slidesurl and post.bibtexurl %}
+        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      {% elsif post.paperurl and post.slidesurl %}
+        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      {% elsif post.paperurl and post.bibtexurl %}
+        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      {% elsif post.paperurl %}
+        <p><a href="{{ post.paperurl }}">Download Paper</a></p>
+      {% elsif post.slidesurl and post.bibtexurl %}
+        <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      {% elsif post.slidesurl %}
+        <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      {% elsif post.bibtexurl %}
+        <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      {% endif %}
+    </div>
+  </details>
+</div>
