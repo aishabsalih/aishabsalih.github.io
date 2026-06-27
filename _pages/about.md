@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About"
+title: "Aisha Salih"
+description: "PhD candidate in Economics at Aix-Marseille School of Economics. Research in development economics, climate shocks, social networks, and migration."
 author_profile: true
 redirect_from:
   - /about/

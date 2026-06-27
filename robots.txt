@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aishabsalih.github.io/sitemap.xml

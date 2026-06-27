@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Aisha Salih"
 title_separator          : "-"
 name                     : &name "Aisha Salih"
-description              : &description "PhD candidate in Economics at Aix-Marseille School of Economics"
+description              : &description "Aisha Salih — PhD candidate in Economics at Aix-Marseille School of Economics. Research in development economics, applied microeconomics, climate change, and migration."
 url                      : https://aishabsalih.github.io
 baseurl                  : ""
 repository               : "aishabsalih/aishabsalih.github.io"
@@ -129,12 +129,15 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
-og_description           :
+og_image                 : profile.png
+og_description           : *description
 social:
-  type                   :
-  name                   :
+  type                   : Person
+  name                   : *name
   links:
+    - https://github.com/aishabsalih
+    - https://www.amse-aixmarseille.fr/en/members/salih
+    - mailto:aisha.salih@univ-amu.fr
 
 # Analytics
 analytics:
