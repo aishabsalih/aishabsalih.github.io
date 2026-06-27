@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Aisha Salih"
+title: "About"
 author_profile: true
-header:
-  overlay_image: banner-about.png
-  overlay_filter: 0.35
 redirect_from:
   - /about/
   - /about.html
   - /about-me/
 ---
+
+<img src="/images/banner-about.png" alt="Mountain landscape" class="about-banner">
 
 Hi, welcome!
 
