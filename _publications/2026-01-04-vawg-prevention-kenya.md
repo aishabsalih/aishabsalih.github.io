@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/vawg-prevention-kenya
 excerpt: 'We evaluate the Empowerment Transformation Training (ETT) program, a school-based intervention implemented by Ujamaa Africa, using a large-scale randomized controlled trial in Kenya.'
-date: 2026-01-02
+date: 2026-01-01
 venue: 'Work in Progress'
 ---
 

@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/measuring-temporary-migration
 excerpt: 'Temporary and seasonal migration is an important adjustment margin for rural households in developing economies, yet empirical estimates vary widely across surveys. This paper treats survey design as a primary source of that variation.'
-date: 2026-01-01
+date: 2026-01-02
 venue: 'Work in Progress'
 ---
 

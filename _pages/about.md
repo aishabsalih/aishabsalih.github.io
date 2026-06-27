@@ -8,8 +8,6 @@ redirect_from:
   - /about-me/
 ---
 
-<img src="/images/banner-about.png" alt="Mountain landscape" class="about-banner">
-
 Hi, welcome!
 
 I am a PhD candidate in Economics at the [Aix-Marseille School of Economics (AMSE)](https://www.amse-aixmarseille.fr/en). My research combines development economics, microeconomic theory and applied microeconomics. I study how climate shocks, social networks, and informal institutions shape household welfare and behaviour in agrarian economies.
@@ -20,6 +18,6 @@ My co-advisors are [Habiba Djebbari](https://www.amse-aixmarseille.fr/en/person/
 * **Feb.–July 2026** — [University of Fribourg](https://www.unifr.ch/edhe/en/), [Chair of Development Economics and Economic History](https://www.unifr.ch/edhe/en/). Host: [Christelle Dumas](https://www.unifr.ch/edhe/en/team/christelle-dumas/).
 * **Sept.–Dec. 2024** — [Yale University](https://economics.yale.edu/) & The Yale Research Initiative on Innovation & Scale. Host: [Ahmed Mushfiq Mobarak](https://economics.yale.edu/people/ahmed-mushfiq-mobarak).
 
-**Email.** [aisha.salih@univ-amu.fr](mailto:aisha.salih@univ-amu.fr)
+**Email me @** [aisha.salih@univ-amu.fr](mailto:aisha.salih@univ-amu.fr)
 
-**CV.** [View or download my CV (PDF)](/files/Aisha_SALIH_CV.pdf) · [Web CV](/cv/)
+**CV** [View or download my CV (PDF)](/files/Aisha_SALIH_CV.pdf) · [Web CV](/cv/)

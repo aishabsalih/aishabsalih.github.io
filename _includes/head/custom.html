@@ -20,18 +20,18 @@
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
 <style>
-  /* Square crop so portrait photos render as a circle, not an oval */
-  .author__avatar img {
-    width: 175px;
-    height: 175px;
-    max-width: 175px;
+  /* Consistent circular profile photo on all pages */
+  .sidebar .author__avatar img {
+    width: 175px !important;
+    height: 175px !important;
+    max-width: 175px !important;
     object-fit: cover;
-    object-position: center 20%;
+    object-position: center 8%;
     border-radius: 50%;
   }
 
-  /* About-page banner: full width of main content, clear of sidebar */
-  .about-banner {
+  /* Site banner below page title, main content column only */
+  .site-banner {
     display: block;
     width: 100%;
     max-height: 280px;
