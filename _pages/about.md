@@ -9,13 +9,17 @@ redirect_from:
   - /about-me/
 ---
 
-Welcome. I am a PhD candidate in Economics at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en). My co-advisors are [Habiba Djebbari](https://www.amse-aixmarseille.fr/en/person/habiba-djebbari) and [Timothée Demont](https://www.amse-aixmarseille.fr/en/person/timothee-demont).
+Hi, welcome! I'm a PhD candidate in Economics at the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en), under the co-advisorship of [Habiba Djebbari](https://www.amse-aixmarseille.fr/en/person/habiba-djebbari) and [Timothée Demont](https://www.amse-aixmarseille.fr/en/person/timothee-demont). I'm an applied economist working in development economics. I study how social networks and informal institutions can affect household adjustment and behavior in agrarian economies in the face of climate shocks and uncertainty.
 
-I am an applied economist working in development economics. I study how climate shocks, social networks, and informal institutions shape household welfare and behaviour in agrarian economies.
+I am on the 2026–2027 academic job market. My job market paper, [Neighborly Business: Labor Exchange Networks and Wage Markets in Rural Thailand]({{ site.jmp_pdf }}), looks into why unpaid reciprocal labor networks may persist in monetized rural markets and their impact on access to wage labor.
 
-I am on the 2026–2027 academic job market. My job market paper, [Neighborly Business: Labor Exchange Networks and Wage Markets in Rural Thailand]({{ site.jmp_pdf }}), studies why unpaid reciprocal labor persists after rural wage markets develop.
+My work combines economic theory with applied empirical methods. I use household surveys, administrative records, and geospatial climate data, and I rely on quasi-experimental variation to study how households adjust to risk.
 
-My research focuses on (i) labor-exchange networks and the organization of paid work in rural Thailand; (ii) weather shocks and religious giving in Sub-Saharan Africa, with Eva Raiber; and (iii) what household surveys miss about temporary mobility in Malawi, with further work on school-based prevention of violence against women and girls in Kenya.
+My research focuses on:
+
+* how social networks and informal institutions organize exchange, labor, and support in rural communities
+* how households adjust when climate shocks and other sources of uncertainty hit agrarian economies
+* migration and temporary mobility as margins of adjustment for rural households
 
 **Latest news**
 
