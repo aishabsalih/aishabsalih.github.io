@@ -13,13 +13,14 @@ Hi, welcome! I'm a PhD candidate in Economics at the [Aix-Marseille School of Ec
 
 I am on the 2026–2027 academic job market. My job market paper, [Neighborly Business: Labor Exchange Networks and Wage Markets in Rural Thailand]({{ site.jmp_pdf }}), looks into why unpaid reciprocal labor networks may persist in monetized rural markets and their impact on access to wage labor.
 
-My work combines economic theory with applied empirical methods. I use household surveys, administrative records, and geospatial climate data, and I rely on quasi-experimental variation to study how households adjust to risk.
+My work combines economic theory with applied empirical methods. I use household surveys, administrative records, and geospatial climate data to measure how rural households allocate labor, income, and time. I rely on quasi-experimental variation, from weather shocks and other quasi-exogenous changes, to study adjustment to risk.
 
 My research focuses on:
 
-* how social networks and informal institutions organize exchange, labor, and support in rural communities
-* how households adjust when climate shocks and other sources of uncertainty hit agrarian economies
-* migration and temporary mobility as margins of adjustment for rural households
+* how social networks and informal institutions affect formal and informal rural labor allocation
+* household decisions under climate uncertainty
+* rural migration and temporary mobility
+* household adjustment and structural transformation in evolving agrarian economies
 
 **Latest news**
 
