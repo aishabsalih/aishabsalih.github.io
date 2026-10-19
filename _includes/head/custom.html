@@ -40,6 +40,23 @@
     border-radius: 4px;
     margin: 0 0 1.5em;
   }
+
+  /* Teaching page: smaller plain titles, no underline without a link */
+  .archive__item-title--plain,
+  .archive__item:hover .archive__item-title--plain {
+    text-decoration: none !important;
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.35;
+    border-bottom: none;
+  }
+
+  .archive__item-teaser-text {
+    margin-top: 0.15em;
+    margin-bottom: 1.35em;
+    font-size: 0.95rem;
+    color: var(--global-text-color-light);
+  }
 </style>
 
 <!-- end custom head snippets -->

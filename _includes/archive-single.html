@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title{% if post.collection == 'teaching' %} archive__item-title--plain{% endif %}" itemprop="headline">
       {% if post.collection == 'teaching' %}
         {{ title }}
       {% elsif post.link %}
@@ -41,7 +41,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p class="archive__item-teaser-text">{% if post.academic_year %}<strong>{{ post.academic_year }}</strong> · {% endif %}{{ post.type }}, <i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'publications' and post.venue == 'Job Market Paper' %}
           <p><strong>Job Market Paper</strong></p>
         {% elsif post.collection == 'publications' and post.venue %}

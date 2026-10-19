@@ -20,14 +20,8 @@
     <div class="publication-dropdown__content">
       {{ post.content | markdownify }}
 
-      {% if post.paperurl and post.slidesurl and post.bibtexurl %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-      {% elsif post.paperurl and post.slidesurl %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-      {% elsif post.paperurl and post.bibtexurl %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-      {% elsif post.paperurl %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a></p>
+      {% if post.paperurl %}
+        <p><a href="{{ post.paperurl }}"><strong>{% if post.venue == 'Job Market Paper' %}Download latest PDF{% else %}Download Paper{% endif %}</strong></a>{% if post.slidesurl %} | <a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}{% if post.bibtexurl %} | <a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endif %}</p>
       {% elsif post.slidesurl and post.bibtexurl %}
         <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
       {% elsif post.slidesurl %}

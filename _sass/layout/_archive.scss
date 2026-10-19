@@ -79,9 +79,24 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
+  .archive__item-title:not(.archive__item-title--plain) a {
     text-decoration: underline;
   }
+}
+
+.archive__item-title--plain {
+  text-decoration: none !important;
+  font-size: $type-size-5;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 0.15em;
+}
+
+.archive__item-teaser-text {
+  margin-top: 0;
+  margin-bottom: 1.25em;
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
 }
 
 
