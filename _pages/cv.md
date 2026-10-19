@@ -7,8 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<p><a href="/files/Aisha_SALIH_CV.pdf" class="btn btn--primary" download>Download CV (PDF)</a></p>
+<!-- To publish a new CV, replace files/Aisha_SALIH_CV.pdf. Keep this URL. -->
 
-<iframe src="/files/Aisha_SALIH_CV.pdf" title="Aisha Salih CV" width="100%" height="1100" style="border: none; min-height: 80vh;"></iframe>
+<p><a href="{{ site.cv_pdf }}" class="btn btn--primary" download>Download latest CV (PDF)</a></p>
 
-<p><em>If the PDF does not display in your browser, <a href="/files/Aisha_SALIH_CV.pdf">open it directly</a>.</em></p>
+<iframe src="{{ site.cv_pdf }}?v={{ site.time | date: '%s' }}" title="Aisha Salih CV" width="100%" height="1100" style="border: none; min-height: 80vh;"></iframe>
+
+<p><em>If the PDF does not display in your browser, <a href="{{ site.cv_pdf }}">open it directly</a>.</em></p>
