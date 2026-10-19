@@ -17,6 +17,10 @@ url                      : https://aishabsalih.github.io
 baseurl                  : ""
 repository               : "aishabsalih/aishabsalih.github.io"
 
+# Stable public files. Replace the PDF in place; do not change these paths.
+cv_pdf                   : "/files/Aisha_SALIH_CV.pdf"
+jmp_pdf                  : "/files/JMP.pdf"
+
 # Site Author
 author:
   avatar           : "profile.png"
@@ -44,7 +48,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "aishabsalih"
+  github           :
   kaggle           :
   stackoverflow    :
 
@@ -58,7 +62,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "aisha-salih-512796161"
   mastodon         :
   medium           :
   pinterest        :
@@ -113,7 +117,7 @@ staticman:
       options:
         format           : "iso8601"
 atom_feed:
-  hide                   : false
+  hide                   : true
   path                   :
 
 # SEO Related
@@ -135,7 +139,7 @@ social:
   type                   : Person
   name                   : *name
   links:
-    - https://github.com/aishabsalih
+    - https://www.linkedin.com/in/aisha-salih-512796161/
     - https://www.amse-aixmarseille.fr/en/members/salih
     - mailto:aisha.salih@univ-amu.fr
 
@@ -177,6 +181,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - cv-source
 keep_files:
   - .git
   - .svn
