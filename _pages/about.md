@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-  - /about-me/
+  - /about-me/ 
 ---
 
 Hi, welcome! I'm a PhD candidate in Economics at the Aix-Marseille School of Economics, under the co-advisorship of [Habiba Djebbari](https://www.amse-aixmarseille.fr/fr/membres/djebbari) and Timothée Demont. I'm an applied economist working in development economics. I study how social networks and informal institutions can affect household adjustment and behavior in agrarian economies in the face of climate shocks and uncertainty.
@@ -22,7 +22,7 @@ My research focuses on:
 * rural migration and temporary mobility
 * household adjustment and structural transformation in evolving agrarian economies
 
-**Latest news**
+**Research visits**
 
 * **February–July 2026** — Research visit, University of Fribourg, Chair of Development Economics and Economic History. Host: [Christelle Dumas](https://www.unifr.ch/edhe/fr/chaire/equipe/christelle-dumas.html).
 * **September–December 2024** — Research visit, Yale University and the Yale Research Initiative on Innovation and Scale (Y-RISE). Host: [Ahmed Mushfiq Mobarak](https://economics.yale.edu/people/mushfiq-mobarak).
